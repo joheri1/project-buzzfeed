@@ -67,3 +67,11 @@ body {
   margin: 10px 0 0;
   padding: 10px;
 }
+footer {
+  padding-bottom: 50px;
+}
+
+footer p {
+  color: #d9445e;
+  text-align: center;
+}
